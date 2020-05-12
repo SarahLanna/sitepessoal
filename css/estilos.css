@@ -1,9 +1,10 @@
 body {
     background-image: url('https://www.itl.cat/pngfile/big/0-7755_nature-pier-bridge-d-river-water-sunset-night.jpg');
-    background-size:auto 100vh;
-    heigth:100vh;
-    font-family: Arial;
     
+    /* background-size:auto 100vh; */
+    /* height:100vh; */
+    font-family: Arial;
+    /* background-repeat: no-repeat; */
   }
   
   .menu{
